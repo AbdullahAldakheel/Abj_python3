@@ -5,7 +5,7 @@ setup(
   version = '1.0.0',      # Start with a small number and increase it with every change you make
   license='OpenSource',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Abj Platform.',   # Give a short description about your library
-  author = 'Odai',                   # Type in your name
+  author = 'Abdullah',                   # Type in your name
   author_email = 'a.dakheek@outlook.com',      # Type in your E-Mail
   url = 'https://github.com/AbdullahAldakheel/Abj_python3',   # Provide either the link to your github or to your website
   install_requires=[            # I get to this in a second

@@ -1,0 +1,3 @@
+[console_scripts]
+Abj = Abj.abj:main
+

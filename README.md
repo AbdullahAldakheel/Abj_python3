@@ -14,12 +14,13 @@
 
 
 ### Usage & Examples
-import LogsHub
+```
+import Abj
+```
 
-- LogsHub.warning("message","application_name",300,3,{"key":"value"});
-- LogsHub.error("MESSAGE","NEWS",30);
-- LogsHub.info("MESSAGE","NEWS");
-- LogsHub.critical("MESSAGE","NEWS",0,None,{"key":"value"});
+- Abj.updateJobStatus("34543543534"",true ,{"ar": "تم", "en": "Done"})
+- Abj.putInBucket(path, file);
+- Abj.getFromBucket(path);
 
 
 License

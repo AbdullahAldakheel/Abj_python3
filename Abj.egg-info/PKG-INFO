@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: Abj
+Version: 1.0.0
+Summary: Abj Platform.
+Home-page: https://github.com/AbdullahAldakheel/Abj_python3
+Author: Odai
+Author-email: a.dakheek@outlook.com
+License: OpenSource
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+License-File: LICENSE.txt
+
+UNKNOWN
+
