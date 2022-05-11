@@ -1,15 +1,14 @@
-# Custom Logs File generator for LOGS HUB Python 3
+# Custom Logs File generator for 
 
 ### Installation
 
-- pip install LogsHub
+- pip install abh
 - copy .env to root directory of the project or if you have .env file already copy content of the file (new variables in the .env)
 
 ### Available functions 
 
 
 ### Function Parameters
-
 
 
 
